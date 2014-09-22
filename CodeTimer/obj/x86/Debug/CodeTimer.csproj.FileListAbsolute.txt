@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\CodeTimer - 副本\CodeTimer\CodeTimer\bin\Debug\CodeTimer.exe
+C:\Users\Administrator\Desktop\CodeTimer - 副本\CodeTimer\CodeTimer\bin\Debug\CodeTimer.pdb
+C:\Users\Administrator\Desktop\CodeTimer - 副本\CodeTimer\CodeTimer\obj\x86\Debug\CodeTimer.exe
+C:\Users\Administrator\Desktop\CodeTimer - 副本\CodeTimer\CodeTimer\obj\x86\Debug\CodeTimer.pdb
+C:\Users\Administrator\Desktop\NETWork\CodeTimer\bin\Debug\CodeTimer.exe
+C:\Users\Administrator\Desktop\NETWork\CodeTimer\bin\Debug\CodeTimer.pdb
+C:\Users\Administrator\Desktop\NETWork\CodeTimer\obj\x86\Debug\CodeTimer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NETWork\CodeTimer\obj\x86\Debug\CodeTimer.exe
+C:\Users\Administrator\Desktop\NETWork\CodeTimer\obj\x86\Debug\CodeTimer.pdb

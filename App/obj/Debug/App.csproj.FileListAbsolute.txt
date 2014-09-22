@@ -1,0 +1,16 @@
+C:\Users\song\Desktop\NETWork\App\bin\Debug\App.exe.config
+C:\Users\song\Desktop\NETWork\App\bin\Debug\App.exe
+C:\Users\song\Desktop\NETWork\App\bin\Debug\App.pdb
+C:\Users\song\Desktop\NETWork\App\bin\Debug\Sk.InspectorAop.dll
+C:\Users\song\Desktop\NETWork\App\bin\Debug\Sk.InspectorAop.pdb
+C:\Users\song\Desktop\NETWork\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\song\Desktop\NETWork\App\obj\Debug\App.exe
+C:\Users\song\Desktop\NETWork\App\obj\Debug\App.pdb
+C:\Users\Administrator\Desktop\NETWork\App\bin\Debug\App.exe.config
+C:\Users\Administrator\Desktop\NETWork\App\bin\Debug\App.exe
+C:\Users\Administrator\Desktop\NETWork\App\bin\Debug\App.pdb
+C:\Users\Administrator\Desktop\NETWork\App\bin\Debug\Sk.InspectorAop.dll
+C:\Users\Administrator\Desktop\NETWork\App\bin\Debug\Sk.InspectorAop.pdb
+C:\Users\Administrator\Desktop\NETWork\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NETWork\App\obj\Debug\App.exe
+C:\Users\Administrator\Desktop\NETWork\App\obj\Debug\App.pdb

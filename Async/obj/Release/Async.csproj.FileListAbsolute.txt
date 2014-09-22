@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\NETWork\Async\bin\Release\Async.exe.config
+C:\Users\Administrator\Desktop\NETWork\Async\bin\Release\Async.exe
+C:\Users\Administrator\Desktop\NETWork\Async\bin\Release\Async.pdb
+C:\Users\Administrator\Desktop\NETWork\Async\obj\Release\Async.exe
+C:\Users\Administrator\Desktop\NETWork\Async\obj\Release\Async.pdb

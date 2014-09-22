@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\NETWork\App\bin\Release\App.exe.config
+C:\Users\Administrator\Desktop\NETWork\App\bin\Release\App.exe
+C:\Users\Administrator\Desktop\NETWork\App\bin\Release\App.pdb
+C:\Users\Administrator\Desktop\NETWork\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NETWork\App\obj\Release\App.exe
+C:\Users\Administrator\Desktop\NETWork\App\obj\Release\App.pdb
+C:\Users\song\Desktop\NETWork\App\bin\Release\App.exe.config
+C:\Users\song\Desktop\NETWork\App\obj\Release\App.exe
+C:\Users\song\Desktop\NETWork\App\obj\Release\App.pdb
+C:\Users\song\Desktop\NETWork\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\song\Desktop\NETWork\App\bin\Release\App.exe
+C:\Users\song\Desktop\NETWork\App\bin\Release\App.pdb
+C:\Users\song\Desktop\NETWork\App\bin\Release\Sk.InspectorAop.dll
+C:\Users\song\Desktop\NETWork\App\bin\Release\Sk.InspectorAop.pdb

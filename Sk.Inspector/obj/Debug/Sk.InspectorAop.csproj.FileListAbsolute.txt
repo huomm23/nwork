@@ -1,0 +1,9 @@
+C:\Users\song\Desktop\NETWork\Sk.Inspector\bin\Debug\Sk.InspectorAop.dll
+C:\Users\song\Desktop\NETWork\Sk.Inspector\bin\Debug\Sk.InspectorAop.pdb
+C:\Users\song\Desktop\NETWork\Sk.Inspector\obj\Debug\Sk.InspectorAop.dll
+C:\Users\song\Desktop\NETWork\Sk.Inspector\obj\Debug\Sk.InspectorAop.pdb
+C:\Users\Administrator\Desktop\NETWork\Sk.Inspector\bin\Debug\Sk.InspectorAop.dll
+C:\Users\Administrator\Desktop\NETWork\Sk.Inspector\bin\Debug\Sk.InspectorAop.pdb
+C:\Users\Administrator\Desktop\NETWork\Sk.Inspector\obj\Debug\Sk.InspectorAop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NETWork\Sk.Inspector\obj\Debug\Sk.InspectorAop.dll
+C:\Users\Administrator\Desktop\NETWork\Sk.Inspector\obj\Debug\Sk.InspectorAop.pdb

@@ -1,0 +1,4 @@
+C:\Users\song\Desktop\NETWork\Sk.Inspector\bin\Release\Sk.InspectorAop.dll
+C:\Users\song\Desktop\NETWork\Sk.Inspector\bin\Release\Sk.InspectorAop.pdb
+C:\Users\song\Desktop\NETWork\Sk.Inspector\obj\Release\Sk.InspectorAop.dll
+C:\Users\song\Desktop\NETWork\Sk.Inspector\obj\Release\Sk.InspectorAop.pdb

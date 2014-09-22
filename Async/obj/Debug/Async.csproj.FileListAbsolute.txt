@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\NETWork\Async\bin\Debug\Async.exe
+C:\Users\Administrator\Desktop\NETWork\Async\bin\Debug\Async.pdb
+C:\Users\Administrator\Desktop\NETWork\Async\obj\Debug\Async.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NETWork\Async\obj\Debug\Async.exe
+C:\Users\Administrator\Desktop\NETWork\Async\obj\Debug\Async.pdb
